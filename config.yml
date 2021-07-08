@@ -3,6 +3,7 @@ description: curso de r studio programacion
 template:
   repo: r-studio-template
   name: r-studio
+  description: aplicado a la gestion del espacio terrestre
 before:
   - type: createIssue
     title: Welcome!
